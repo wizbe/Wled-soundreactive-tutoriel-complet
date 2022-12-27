@@ -42,11 +42,19 @@ Il faut maintenante activer le micro dans WLED
 1. # Faire un test
 Le bandeau doit être allumé !
 
+<img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image007.png">
+
 Dans l’écran principal de WLED, choisir :
+
+<img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image008.png">
 
 Puis
 
+<img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image009.png">
+
 Faire attention aux paramètres de niveau lumineux et de sensibilité du micro !
+
+<img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image010.png">
 
 Faire un peu de bruit ou mettre de la musique et la lumière devrait apparaître !
 1. # Faire une sauvegarde de la configuration de base telle qu’illustrée ci-avant !
