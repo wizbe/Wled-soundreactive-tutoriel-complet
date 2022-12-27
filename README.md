@@ -55,7 +55,7 @@ Fixer la taille du panneau et la pin sur laquelle il peut-être commandé
 
 1. # Connexion du micro INMP441
 
-<img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image003.png">
+<img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/schema-fritzing.png">
 
 Schéma complet en fritzing disponible dans la section fichiers.
 https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/schema-prototype-1.0.fzz
