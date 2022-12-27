@@ -14,6 +14,10 @@ utiliser chrome ou edge et l’installation se fait via l’esp32 connecté au p
 
 1. # Configuration de base
 
+une fois connecté à Wled,
+
+https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image001.png
+
 Current maximum = 55 ma maximum théorique par led \* nombre de led (150 dans mon cas)
 
 
