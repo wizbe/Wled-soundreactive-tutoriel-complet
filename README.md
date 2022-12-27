@@ -14,7 +14,8 @@ utiliser chrome ou edge et l’installation se fait via l’esp32 connecté au p
 
 1. # Configuration de base
 
-une fois connecté à Wled,
+une fois connecté à Wled configurer comme ceci:,
+
 <img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image001.png">
 
 Current maximum = 55 ma maximum théorique par led \* nombre de led (150 dans mon cas)
@@ -25,10 +26,11 @@ Current maximum = 55 ma maximum théorique par led \* nombre de led (150 dans mo
 
 Fixer la taille du panneau et la pin sur laquelle il peut-être commandé
 
-
+<img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image002.png">
 
 1. # Connexion du micro INMP441
 
+<img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image003.png">
 
 Schéma complet en fritzing disponible dans la section fichiers.
 
