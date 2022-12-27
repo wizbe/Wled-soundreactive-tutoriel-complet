@@ -6,12 +6,17 @@ Tutoriel complet en français pour la configuration de WLED sound reactive avec 
 Installation de base du panneau
 
 Un esp32 dev kit C (avec pin 5 v!, pas un LOLIN) : https://amzn.eu/d/hWhCrPs
+
 un panneau LED matrix (il y en a des plus évolués mais j'ai pris un bon marché): https://www.amazon.de/-/en/WS2812B-Digital-Flexible-Programmed-Density/dp/B07Z62WYT4
+
 le logiciel wled sound reactive : https://github.com/THATDONFC/WLED-Reactive
+
 un micro inmp441 : https://invensense.tdk.com/wp-content/uploads/2015/02/INMP441.pdf
+
 une alimentation 5V à découpage : https://amzn.eu/d/iQsgmgx
 
 Merci à https://github.com/jozsefcsiza/ESP32-INMP441-SPECTRUM pour son schéma de connexion du INMP441
+
 Merci infini à l'équipe Wled : https://kno.wled.ge/
 
 Précautions:
