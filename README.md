@@ -34,7 +34,10 @@ Fixer la taille du panneau et la pin sur laquelle il peut-être commandé
 
 Schéma complet en fritzing disponible dans la section fichiers.
 
-Selon le schéma de câblage ci-avant la configuration par défaut de Wled reactive est correcte :
+Selon le schéma de câblage ci-avant la configuration par défaut de Wled reactive est correcte.
+Il faut maintenante activer le micro dans WLED
+
+<img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image005.png">
 
 1. # Faire un test
 Le bandeau doit être allumé !
