@@ -15,12 +15,16 @@ un micro inmp441 : https://invensense.tdk.com/wp-content/uploads/2015/02/INMP441
 
 une alimentation 5V à découpage : https://amzn.eu/d/iQsgmgx
 
+Le logiciel Fritzing en version gratuite : https://github.com/fritzing/fritzing-app (une version payante existe, supportez les !)
+
 Merci à https://github.com/jozsefcsiza/ESP32-INMP441-SPECTRUM pour son schéma de connexion du INMP441
 
 Merci infini à l'équipe Wled : https://kno.wled.ge/
 
+=================
 Précautions:
 Je vous encourage à placer un interrupteur sur votre alimentation, à ne pas toucher le module ESP32 lorsqu'il est sous tension et à être prudent de manière générale soit pour vous ou au moins pour ne pas griller le matériel ;-)
+=================
 
 
 # Procédure:
@@ -54,6 +58,8 @@ Fixer la taille du panneau et la pin sur laquelle il peut-être commandé
 <img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image003.png">
 
 Schéma complet en fritzing disponible dans la section fichiers.
+https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/schema-prototype-1.0.fzz
+
 
 Selon le schéma de câblage ci-avant la configuration par défaut de Wled reactive est correcte.
 Il faut maintenante activer le micro dans WLED
