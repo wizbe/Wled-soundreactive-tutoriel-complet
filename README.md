@@ -21,10 +21,10 @@ Merci à https://github.com/jozsefcsiza/ESP32-INMP441-SPECTRUM pour son schéma 
 
 Merci infini à l'équipe Wled : https://kno.wled.ge/
 
-=================
-Précautions:
+
+# Précautions:
 Je vous encourage à placer un interrupteur sur votre alimentation, à ne pas toucher le module ESP32 lorsqu'il est sous tension et à être prudent de manière générale soit pour vous ou au moins pour ne pas griller le matériel ;-)
-=================
+
 
 
 # Procédure:
@@ -47,7 +47,7 @@ Current maximum = 55 ma maximum théorique par led \* nombre de led (150 dans mo
 
 
 
-## Taille de la bande ou du panneau
+# Taille de la bande ou du panneau
 
 Fixer la taille du panneau et la pin sur laquelle il peut-être commandé
 
