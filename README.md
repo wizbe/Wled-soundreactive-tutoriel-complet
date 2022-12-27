@@ -78,6 +78,7 @@ Faire attention aux paramètres de niveau lumineux et de sensibilité du micro 
 <img src="https://github.com/wizbe/Wled-soundreactive-tutoriel-complet/blob/main/image010.png">
 
 Faire un peu de bruit ou mettre de la musique et la lumière devrait apparaître !
-1. # Faire une sauvegarde de la configuration de base telle qu’illustrée ci-avant !
+
+Faire une sauvegarde de la configuration de base telle qu’illustrée ci-avant, un petit flop est vite arrivé !
 
 
