@@ -1,7 +1,7 @@
 # Wled-soundreactive-tutoriel-complet
 Tutoriel complet en français pour la configuration de WLED sound reactive avec un panneau LED (plans &amp; objets inclus)
 
-#remarque: aucun des liens n'est affilié ou partenaire, ce sont juste les composants que j'ai utilisé.
+# remarque: aucun des liens n'est affilié ou partenaire, ce sont juste les composants que j'ai utilisé.
 
 Installation de base du panneau
 
@@ -23,9 +23,10 @@ Précautions:
 Je vous encourage à placer un interrupteur sur votre alimentation, à ne pas toucher le module ESP32 lorsqu'il est sous tension et à être prudent de manière générale soit pour vous ou au moins pour ne pas griller le matériel ;-)
 
 
-#Procédure:
+# Procédure:
 
 Configuration de WLED :
+
 1. # Installer WLED
 
 <https://install.wled.me/>
